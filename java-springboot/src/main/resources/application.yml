@@ -1,0 +1,8 @@
+toggly:
+  global:
+    enabledByDefault: false
+    missingTogglesBackToDefault: true
+  scrapper:
+    rate: 1000
+  controller:
+    baseUrl: http://toggly.test/controller
